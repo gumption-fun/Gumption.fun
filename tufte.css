@@ -37,7 +37,7 @@ section{
 
 /* HEADSHOT ----------------------------------------------------------------- */
 #headshot{
-}
+position: relative;}
 
 #headshot img{
   width: 100px;
