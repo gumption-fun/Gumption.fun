@@ -3,6 +3,9 @@
 body{
   margin: 10px;
   font-family: sans-serif;
+ background-color: #fffff8;
+    color: #111;
+    max-width: 1400px;
 }
 
 .postscript{
