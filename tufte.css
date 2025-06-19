@@ -1,40 +1,40 @@
 /* LAYOUT ------------------------------------------------------------------- */
 
-body {
+body{
   margin: 0;
   font-family: 'Arial', serif;
 }
 
-.postscript {
+.postscript{
   margin-top: 100px;
 }
 
-section {
+section{
   margin: 20px;
   position: relative;
   margin-left: 100px;
 }
 
-ul {
+ul{
   list-style: none;
 }
 
-#about {
+#about{
   position: absolute;
   left: 350px;
   width: 500px;
 }
 
 @media only screen and (max-device-width: 480px) {
-  section {
+  section{
     margin-left: 10px;
   }
 
-  #headshot {
+  #headshot{
     display: none;
   }
 
-  #about {
+  #about{
     left: 0;
     width: auto;
   }
@@ -42,11 +42,11 @@ ul {
 
 /* HEADSHOT ----------------------------------------------------------------- */
 
-#headshot {
+#headshot{
 /*  position: relative;*/
 }
 
-#headshot img {
+#headshot img{
   width: 300px;
 }
 
