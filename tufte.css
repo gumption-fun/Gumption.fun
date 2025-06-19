@@ -25,7 +25,16 @@ ul{
   width: 500px;
 }
 
-@media only screen and (max-device-width: 480px) {
+#headshot{
+position: relative;
+margin-left: 10%
+}
+
+#headshot img{
+  width: 300px;
+}
+
+@media only screen and (max-device-width: 480px){
   section{
     margin-left: 10px;
   }
@@ -42,13 +51,6 @@ ul{
 
 /* HEADSHOT ----------------------------------------------------------------- */
 
-#headshot{
-/*  position: relative;*/
-}
-
-#headshot img{
-  width: 300px;
-}
 
 /* FANTOM ------------------------------------------------------------------- */
 
