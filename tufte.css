@@ -13,13 +13,13 @@ body{
 }
 
 section{
-  margin: 5%;
+  margin: 10px;
   position: relative;
-  margin-left: 10%;
+  margin-left: 100px;
 }
 
 #about{
-  position: relative;
+  position: absolute;
   left: 40%;
   width: 500px;
 }
