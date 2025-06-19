@@ -25,12 +25,10 @@ section{
 }
 
 #headshot{
-position: relative;
-margin-left: 10px
 }
 
 #headshot img{
-  width: 20$px;
+  width: 20%;
 }
 
 @media only screen and (max-device-width: 480px){
