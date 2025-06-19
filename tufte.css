@@ -15,10 +15,6 @@ section{
   margin-left: 10px;
 }
 
-ul{
-  list-style: none;
-}
-
 #about{
   position: relative;
   left: 40%;
@@ -27,12 +23,11 @@ ul{
 
 #headshot{
 position: fixed;
-margin-left: 10%
-width: 100px;
+margin-left: 10px
 }
 
 #headshot img{
-  width: 100px;
+  width: 20$px;
 }
 
 @media only screen and (max-device-width: 480px){
