@@ -21,7 +21,7 @@ ul{
 
 #about{
   position: relative;
-  left: 350px;
+  left: 40%;
   width: 500px;
 }
 
@@ -31,7 +31,7 @@ margin-left: 10%
 }
 
 #headshot img{
-  width: 300px;
+  width: 20%;
 }
 
 @media only screen and (max-device-width: 480px){
