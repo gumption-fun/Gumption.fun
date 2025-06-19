@@ -5,7 +5,9 @@ body{
   margin: 0;
   font-family: Verdana, Arial, serif, sans-serif;
     max-width: 1400px;
-  background-color: #ffffff;
+  background-color: #fffdf8;
+  color: #141414;
+  
 }
 
 section{
