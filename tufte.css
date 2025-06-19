@@ -24,13 +24,6 @@ section{
   width: 500px;
 }
 
-#headshot{
-}
-
-#headshot img{
-  width: 20%;
-}
-
 @media only screen and (max-device-width: 480px){
   section{
     margin-left: 10px;
@@ -47,7 +40,12 @@ section{
 }
 
 /* HEADSHOT ----------------------------------------------------------------- */
+#headshot{
+}
 
+#headshot img{
+  width: 20%;
+}
 
 /* FANTOM ------------------------------------------------------------------- */
 
